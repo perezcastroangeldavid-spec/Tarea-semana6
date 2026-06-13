@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas 
+puedan recibir reportes o información enviada por
+ los ciudadanos de forma estructurada porque esto facilita 
+ la organización y el procesamiento de los datos. Cuando la información se envía en formatos 
+ estandarizados como JSON, los sistemas pueden interpretarla de manera más rápida y precisa.
+  Además, se reducen los errores al momento de registrar solicitudes, quejas o reportes. Esto permite que las 
+  entidades responsables identifiquen los problemas con mayor facilidad y den una respuesta más oportuna. 
+  También mejora el seguimiento de cada caso, ya que la información queda almacenada de forma ordenada. 
+  Las plataformas que gestionan correctamente los datos generan mayor confianza entre los usuarios
+   y fomentan la participación ciudadana.
